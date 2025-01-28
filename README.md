@@ -1,5 +1,6 @@
 - 👋 Hi, I’m FASALU RAHMAN PK
-- 🌱 I’m currently persuing BCA degree
+- 🌱 I’m BCA graduate.
+-    I'm currently pursuing my post graduation in computer science(AI &ML)
 - 📫 Reach me fasalurahman6038@gmail.com
 
 <!---
